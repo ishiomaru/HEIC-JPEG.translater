@@ -1,0 +1,5 @@
+C:\Users\Owner\MyLibrary\projects\jpeg_translater\src\HeicToJpegConverter\obj\Debug\net8.0\HeicToJpegConverter.csproj.AssemblyReference.cache
+C:\Users\Owner\MyLibrary\projects\jpeg_translater\src\HeicToJpegConverter\obj\Debug\net8.0\HeicToJpegConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\MyLibrary\projects\jpeg_translater\src\HeicToJpegConverter\obj\Debug\net8.0\HeicToJpegConverter.AssemblyInfoInputs.cache
+C:\Users\Owner\MyLibrary\projects\jpeg_translater\src\HeicToJpegConverter\obj\Debug\net8.0\HeicToJpegConverter.AssemblyInfo.cs
+C:\Users\Owner\MyLibrary\projects\jpeg_translater\src\HeicToJpegConverter\obj\Debug\net8.0\HeicToJpegConverter.csproj.CoreCompileInputs.cache

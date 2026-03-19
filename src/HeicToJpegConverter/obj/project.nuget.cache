@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Acv89wpM9yk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\MyLibrary\\projects\\jpeg_translater\\src\\HeicToJpegConverter\\HeicToJpegConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.24\\microsoft.dotnet.ilcompiler.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.24\\microsoft.net.illink.tasks.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.24\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\terrafx.interop.windows\\10.0.22621.6\\terrafx.interop.windows.10.0.22621.6.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.24\\microsoft.netcore.app.runtime.win-x64.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.24\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.24\\microsoft.aspnetcore.app.runtime.win-x64.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.24\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.24.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}
